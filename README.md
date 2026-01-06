@@ -1,48 +1,50 @@
 # 📊 Customer Shopping Trends Dashboard (Power BI)
 
-## 📌 Project Overview
-This project presents an analytical dashboard built in **Power BI Desktop** based on the *Customer Shopping Trends* dataset.  
-The dashboard focuses on exploring customer purchasing behavior across product categories, demographics, locations, and seasons.
+## 📌 Обзор проекта
+Данный проект представляет собой аналитический дашборд, созданный в **Power BI Desktop** на основе датасета *Customer Shopping Trends*.  
+Дашборд предназначен для анализа покупательского поведения клиентов по продуктовым категориям, демографическим характеристикам, географии и сезонам.
 
-The dataset was downloaded from an open public source and directly loaded into Power BI for analysis and visualization.
-
----
-
-## 📄 How to View the Dashboard
-This dashboard is available for review via GitHub.  
-Please open the **PDF version of the report (`report.pdf`)** to explore the full dashboard layout, visuals, and insights.
-**OR CLICK** https://github.com/TanirbergenAbdrashit/PowerBi_Portfolio-Customer_Shopping_Trends/blob/52b6cdc3fff40dc793b1c45098f1bee2dc0ea1b8/PDF%20of%20Customer%20Shopping%20Trends%20Dashboard.pdf
-
-The PDF version preserves the original dashboard structure and key analytical findings.
+Датасет был скачан из открытого публичного источника и напрямую загружен в Power BI для анализа и визуализации.
 
 ---
 
-## 🎯 Objectives
-- Analyze total purchase amount and overall sales distribution  
-- Identify trends by **gender, product category, and size**  
-- Explore **geographical distribution** of customer purchases  
-- Compare **purchase frequency and subscription status**  
-- Analyze **seasonal patterns** in shopping behavior  
+## 📄 Как посмотреть дашборд
+Вы можете ознакомиться с данным дашбордом через GitHub.  
+Для просмотра полной структуры дашборда, визуализаций и аналитических выводов, пожалуйста, откройте **PDF-версию отчёта (`report.pdf`)**.
+
+**ИЛИ ПЕРЕЙДИТЕ ПО ССЫЛКЕ:**  
+https://github.com/TanirbergenAbdrashit/PowerBi_Portfolio-Customer_Shopping_Trends/blob/52b6cdc3fff40dc793b1c45098f1bee2dc0ea1b8/PDF%20of%20Customer%20Shopping%20Trends%20Dashboard.pdf
+
+PDF-версия сохраняет оригинальную структуру дашборда и ключевые аналитические выводы.
 
 ---
 
-## 📊 Key Metrics
-- **Total Purchase Amount (USD)**
-- Purchase count by:
-  - Gender
-  - Product category
-  - Location
-  - Season
-  - Size
-- Payment method distribution
-- Purchase frequency by subscription status
+## 🎯 Цели проекта
+- Проанализировать общий объём покупок и распределение продаж  
+- Выявить тренды по **полу, категории товаров и размерам**  
+- Исследовать **географическое распределение покупок клиентов**  
+- Сравнить **частоту покупок и наличие подписки**  
+- Проанализировать **сезонные паттерны покупательского поведения**  
 
 ---
 
-## 🧠 Dashboard Highlights
-- KPI card showing total purchase amount  
-- Bar charts comparing purchase amounts by gender and category  
-- Geographical map visualizing sales distribution by U.S. state  
-- Stacked bar chart showing purchase frequency by subscription status  
-- Donut chart displaying size distribution across categories  
-- Line chart highlighting seasonal trends by category  
+## 📊 Ключевые метрики
+- **Общая сумма покупок (USD)**
+- Количество покупок по:
+  - полу
+  - категории товаров
+  - локации
+  - сезону
+  - размеру
+- Распределение способов оплаты
+- Частота покупок в разрезе статуса подписки
+
+---
+
+## 🧠 Основные элементы дашборда
+- KPI-карточка с общей суммой покупок  
+- Столбчатые диаграммы с распределением покупок по полу и категориям  
+- Географическая карта с визуализацией продаж по штатам США  
+- Составная столбчатая диаграмма частоты покупок и подписки  
+- Кольцевая диаграмма распределения размеров по категориям  
+- Линейный график сезонных трендов по категориям  
