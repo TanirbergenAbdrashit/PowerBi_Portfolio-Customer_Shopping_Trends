@@ -11,6 +11,7 @@ The dataset was downloaded from an open public source and directly loaded into P
 ## 📄 How to View the Dashboard
 This dashboard is available for review via GitHub.  
 Please open the **PDF version of the report (`report.pdf`)** to explore the full dashboard layout, visuals, and insights.
+**OR CLICK** https://github.com/TanirbergenAbdrashit/PowerBi_Portfolio-Customer_Shopping_Trends/blob/52b6cdc3fff40dc793b1c45098f1bee2dc0ea1b8/PDF%20of%20Customer%20Shopping%20Trends%20Dashboard.pdf
 
 The PDF version preserves the original dashboard structure and key analytical findings.
 
@@ -45,17 +46,3 @@ The PDF version preserves the original dashboard structure and key analytical fi
 - Stacked bar chart showing purchase frequency by subscription status  
 - Donut chart displaying size distribution across categories  
 - Line chart highlighting seasonal trends by category  
-
----
-
-## 🖼 Dashboard Preview
-![Customer Shopping Trends Dashboard](screenshots/dashboard.png)
-
----
-
-## 📂 Repository Contents
-- `report.pbix` — Power BI report file  
-- `report.pdf` — PDF export of the dashboard for review  
-- `screenshots/` — dashboard images  
-- `data/` — original or sample dataset  
-- `README.md` — project documentation  
